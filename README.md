@@ -58,17 +58,6 @@ My goal is to specialize in **Linux, Networking, and System-Oriented Software En
 
 ---
 
-## 📌 Featured Projects
-
-👉 Check my **pinned repositories** below  
-Each project includes:
-- Clear documentation
-- Setup instructions
-- Practical engineering concepts
-
----
-
-
 ## 📫 Contact
 
 - 📍 Tunisia  
