@@ -34,6 +34,8 @@ Currently focusing on:
 ### Cloud & DevOps
 - Docker
 - Git & GitHub
+- GitHub Actions
+- CI/CD
 
 ### Data & Databases
 - MySQL
