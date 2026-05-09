@@ -27,6 +27,7 @@ Currently focusing on:
 
 ### Backend
 - FastAPI
+- Node.js / Express.js
 - Spring Boot
 - REST APIs
 
