@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Brini</h1>
-<h3 align="center">Software Engineering Student | Backend • Cloud • Data Engineering</h3>
+<h3 align="center">Software Engineering Student | Cloud & DevOps Engineer</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 </p>
 
@@ -11,56 +11,49 @@
 
 ## 👨‍💻 About Me
 
-🎓 Software Engineering student from Tunisia interested in backend development, cloud technologies, and data-oriented systems.
+🎓 Software Engineering student from Tunisia with a strong interest in Cloud Engineering, DevOps, and Infrastructure as Code.
 
-I enjoy building backend applications, working with APIs, containerized environments, and exploring cloud and data engineering concepts through hands-on projects.
+I enjoy designing secure, scalable cloud infrastructure, automating deployments, and building production-ready systems using modern cloud-native tools and best practices.
 
-Currently focusing on:
-- Backend development
-- Cloud technologies
-- Docker & containerization
-- Data engineering fundamentals
+Currently focused on:
+- Google Cloud Platform (GCP)
+- Terraform & Infrastructure as Code
+- DevOps & CI/CD
+- Linux & Automation
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Tech Stack
 
-### Backend
-- FastAPI
-- Node.js / Express.js
-- Spring Boot
-- REST APIs
+### Cloud
+- Google Cloud Platform (GCP)
 
-### Cloud & DevOps
-- Docker
-- Git & GitHub
+### Infrastructure as Code
+- Terraform
+
+### DevOps
+- Git
+- GitHub
 - GitHub Actions
 - CI/CD
 
-### Data & Databases
-- MySQL
-- MongoDB
-- Pandas
-
-### Programming Languages
-- Python
-- Java
-- JavaScript
-- C
+### Operating Systems
+- Linux (Ubuntu)
 
 ---
 
 ## 📌 Current Focus
 
-- Building backend and cloud-oriented projects
-- Learning cloud engineering concepts
-- Improving deployment and containerization workflows
-- Exploring data engineering and scalable systems
+- Building cloud infrastructure projects on GCP
+- Mastering Terraform and Infrastructure as Code
+- Learning production-grade DevOps practices
+- Designing secure, scalable cloud architectures
 
 ---
 
-## 📫 Contact
+## 📫 Connect
 
 - 📍 Tunisia
-- 💼 Open to internships and remote opportunities
+- 💼 Open to Cloud, DevOps, and Platform Engineering Captone Project.
+- 🌐 Portfolio: https://ahmedbrini.vercel.app/
 - 🔗 GitHub: https://github.com/sinex-cloud
