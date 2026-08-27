@@ -65,8 +65,8 @@
 ### 📊 Activity
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=sinex-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=2DD4BF" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinex-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
+  <img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=sinex-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&icon_color=2DD4BF" />
+  <img height="160" src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=sinex-cloud&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" />
 </p>
 
 <p align="center">
@@ -74,9 +74,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sinex-cloud&color=38BDF8&style=flat-square&label=Profile+Views" />
+  <img src="https://koma-cloud&color=38BDF8&style
+=flat-square&label=Profi
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E293B,100:0F172A&height=100&section=footer" width="100%"/>
+  <img src="https://capse=waving&color=0:1E293B,1
+00:0F172A&height=100&sec
 </p>
