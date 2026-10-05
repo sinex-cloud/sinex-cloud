@@ -41,8 +41,3 @@
   </picture>
 </a>
 </p>
-
-<p align="center"><sub>
-  <a href="https://github.com/sinex-cloud/infrastructure-terraform-gcp">infrastructure-terraform-gcp</a> ·
-  <a href="https://github.com/sinex-cloud/gcp-foundation-module">gcp-foundation-module</a>
-</sub></p>
